@@ -1,0 +1,276 @@
+ByParts (Asia) Sdn Bhd User Agreement
+
+Our Service
+Byparts (Asia) Sdn Bhd (“Byparts”) provides vehicle repairers and vehicle part suppliers a platform to buy and sell new and used parts. Using the Byparts web site, Repairers can direct order from preferred Suppliers or request quotes for a particular part or parts in accordance to this Agreement.
+
+Byparts only supplies the electronic platform for these transactions as well as transmission of requests via email or other means and may charge a fee to the Suppliers and Repairers for use of the Byparts Application. It neither takes part in the purchase or sale of any of the parts nor facilitate the delivery of payments to Suppliers. Byparts facilitates the interaction of Repairers and Suppliers but does not act as an agent for either.
+
+This User Agreement
+This User Agreement (this “Agreement”) describes the rights and obligations of Byparts and each user, including the entity that is registered (the “User”) to use the Byparts Application. The term “User” includes any person or entity that enters into a transaction with a Repairer or Supplier using the information supplied by Byparts or the Byparts Application, such as a Supplier receiving a Request from Byparts via email, but not through the Site and shall include any of User’s officers, employees, agents, contractors, or other persons acting on behalf of the User, under the direction of the User, or using the equipment or facilities of the User. “Site” as used in this Agreement means the website owned and operated by Byparts, at http://www.byparts.com, and all websites and Site pages owned and operated by Byparts which are linked to, or accessible from, such URLs. The User shall be responsible for, and subject to any obligation, any liability, or shall provide indemnification obligations for the actions, of any person that is (a) an officer, employee agent, contractor, or other person acting on behalf of the User, (b) acting under the direction of the User, or (c) using the equipment or facilities of the User.
+
+This User Agreement incorporates the following documents and pages by reference:
+
+Byparts’s Privacy Policy (the “Privacy Policy”);
+Byparts’s training materials;
+Participant Application;
+the terms provided on documents delivered by Byparts via email to a Supplier;
+any terms, conditions, policies, or instructions found on the Site; and
+such terms otherwise referenced in this Agreement.
+References to this “Agreement”, unless specifically provided otherwise, incorporate each of the items listed above. If any provision of this Agreement conflicts with any of the items (i) through (vi) above, the terms of this Agreement shall prevail.
+
+Acceptance of Agreement
+Use of the Site, use of information from an email from Byparts to negotiate a Product transaction with a Repairer or Supplier, or any other use of the Byparts Application, shall be deemed agreement to all of the terms and conditions contained in this Agreement and shall not require a formal written agreement. If a Supplier sells Products based on information from a facsimile from Byparts, then such Supplier shall be deemed to have accepted the terms of this Agreement as if such Supplier were a “User”. As to each User, this Agreement specifically supersedes any other license or agreement between Byparts and User, including Byparts’s Software License Agreement. Certain Users may be a Supplier that (A) have not registered as a Participant for use of the Site, or (B) registered as a Participant, but indicated that it should only receive requests via email. In such instances, those provisions of this Agreement that relate solely to the use of the Site shall not apply to such Suppliers. However, all other provisions of this Agreement shall apply to such Suppliers.
+
+Byparts Authority to Modify Agreement
+Byparts may amend, supplement, or substitute any term, provision or condition in this Agreement, in whole or in part, at any time.  Byparts will notify User of modifications the next time they access the system and User will be prompted to accept such modifications.  Any modifications shall be effective immediately upon acceptance by User. Each User is responsible for understanding the latest version of this Agreement. If User does not wish to be bound by the modified Agreement, User shall decline the changes, discontinue use of the Web Site and notify Byparts of its intent to terminate use. User’s continued use of the Site shall constitute acceptance by User of the Agreement, as amended.
+
+Other Defined Terms
+“Change of Control” means the transfer of more than 50% of any class of voting equity, the sale of substantially all of the assets, or other merger or reorganization where holders of 50% of the voting equity before such transaction do not have 50% or more of the voting equity of the surviving entity.
+
+“Losses” means claims, damages, expenses, suits, actions, liabilities, losses, costs (including reasonable attorneys’ fees), fines, penalties, taxes or damages (collectively, “Losses”)
+
+“Participant” means any User that registers as a participant of the Byparts Application pursuant this Agreement.
+
+“Order” means an order, or offer to buy, a Product, made by a Repairer to the Supplier.
+
+“Byparts Software” means any software (including object code and source code) and documentation provided by Byparts to User, whether by download, on disk, in read-only memory, hard copy, or on any other media or in any other form, including any updates or upgrades that Byparts elects to provide to User, at its sole discretion and subject to terms imposed by Byparts.
+
+“Byparts Application” means the Byparts Software, the Site, the delivery by Byparts of Requests, Quotes or Orders by email or any other medium, and any other service or provided by or on behalf of Byparts in the facilitation of the purchase of Products where one or more of the parties to the transaction use any portion of the Byparts Software or the Site.
+
+“Product” means a product, part, item, or other tangible object that is the subject of a Request, including any vehicle Products.
+
+“Quote” means a response by a Supplier to a Request from a Repairer.
+
+“Repairer” means a person or entity in the business of repairing vehicles.
+
+“Request” means a request by a Repairer for quote for prices, terms and part characteristics from a Supplier.
+
+“Supplier” means a person or entity that is a supplier of vehicle Products.
+
+Participation
+Participation Required to Use Site and Licensed Intellectual Property
+The Site may only be used by registered Users. Byparts may invite new Users to participate from time to time in its sole discretion.
+
+Becoming a Participant
+A prospective User may register as a User by completing the Participant Registration Application on the Site or submitting a completed Participant Registration Application to a Byparts representative. Byparts may accept or reject any application for User participation in its sole discretion. Byparts may contact User for any purpose.
+
+Representations by User
+As a condition to User’s participation, each User represents and warrants to Byparts that:
+
+the information provided on the Participant Registration Application, or any other information provided to Byparts by User, is true, complete and accurate;
+should User be granted participation, User shall update information from User immediately after becoming outdated or inaccurate; all Participant information shall remain true, complete and accurate at all times;
+the person submitting the application for participation has all the requisite authority to act for the User; User shall immediately notify Byparts if such person ever ceases to have such authority; and
+User has not relied upon any pre-contractual advice, representations or warranties given or made by Byparts or any other party in agreeing to be bound by this Agreement.
+Termination of Participation
+User may terminate its participation upon written notification to Byparts, which shall be effective on the earlier of (i) acceptance by Byparts, or (ii) thirty (30) days after delivery of such notice to Byparts. Byparts may terminate the participation of any User, or refuse User access to the Site, at any time, without notice, at Byparts’s sole discretion, for any reason or no reason. Termination of User’s participation shall result in the deactivation of User’s participation and User shall not be given access to the Site. User shall have no right to any information or files relating to User or its participation unless otherwise provided in the Privacy Policy. Termination of a User’s participation shall immediately terminate the license to the Byparts Software, any Byparts intellectual property and other information. Sections 7(License by User), 23 (Remedies for Breach by Participants), 25 (Security), 26 (Disclaimer of Warranties), 27 (Limitation of Liability), 28 (Indemnification), and 29 (General Provisions) shall survive the termination of this Agreement.
+
+License by Byparts; Terms of Use
+License.
+The Byparts Software is licensed, not sold, to User by Byparts for use only under the terms of this Agreement. Subject to User’s compliance with all the terms of this Agreement, Byparts grants to User a single, limited, non-exclusive, personal, non-sub licensable, non-assignable, non-transferable, revocable, restricted license to use the Site and the Byparts Software (in object code only) on a single computer in accordance with this Agreement. Byparts reserves all rights in the Site and the Byparts Software not expressly granted to User. The rights granted in this Agreement are limited to Byparts’s and its licensors’ intellectual property rights in the Byparts Software and do not include any other patents or intellectual property rights.
+
+Restrictions on license and use.
+THE BYPARTS SOFTWARE IS NOT INTENDED FOR USE TO OPERATE EQUIPMENT IN WHICH THE FAILURE OF THE BYPARTS SOFTWARE COULD LEAD TO DEATH, PERSONAL INJURY, OR PHYSICAL OR ENVIRONMENTAL DAMAGE.
+
+The User shall not:
+
+Resell, rent, lease, lend, sublicense, assign or otherwise transfer the Byparts Software or User’s license rights to use the Site or the Byparts Software.
+Copy, disassemble, modify, decompile, adapt, reproduce, store, distribute, print, commercialize, reverse engineer, separate, transmit or create derivative works of the Byparts Software, any information on the Site (other than pursuant to this Agreement) or any part thereof.
+Contact any User for the purchase of vehicle parts once those parts have been included in a Request on Byparts, other than as provided under this Agreement.
+Use the Site other than to procure or supply Products used to repair motor vehicles as provided in this Agreement.
+Share data, screen shots or reporting from the Byparts Application outside User’s Company or other than for purposes of managing their own parts procurement or related business functions.
+Termination of license. Byparts may terminate any license granted under this Agreement at any time. The rights granted in this Agreement (i) are limited to Byparts’s and its licensors’ intellectual property rights in the site and (ii) do not include any other patents or intellectual property rights. The information and content on the Site may only be viewed or downloaded by User to perform its obligations under this Agreement and use the services as described in this Agreement.
+License by User
+The User hereby grants Byparts, its affiliates, and their respective contractors and business partners, a non-exclusive, transferable, sub-licensable, assignable, royalty-free, fully paid-up, and worldwide, permission, right to use and license to any information, data, software, photographs, graphs, videos, typefaces, graphics, music, sounds, and other material sent, transmitted, or uploaded by User on the Site (collectively, “User Content”). The license shall permit Byparts, only to the extent necessary to perform its obligations or exercise its rights expressly granted in this Agreement, (i) to use, copy, publicly perform, digitally perform, publicly display, and distribute User Content, and to (ii) to prepare derivative works based on, or incorporate into other works, User Content, with or without attribution, such as the aggregation of data regarding users, transactions, products or user ratings.
+
+Fees for using the Site and Byparts Software
+Fees.
+Byparts shall charge such fees as are provided in the Site. Byparts shall provide at least 60 calendar days’ notice to Users before increasing fees.
+
+Payment of Site Fees.
+Payment to Byparts for the license(s) to use the Byparts Software, the Site, and any other services performed by Byparts pursuant to this Agreement, are as provided in the Site and deemed accepted by Users.
+
+Use of the Site – Basic Service – Requests, Quotes and Orders
+Users provide basic information regarding their firms and the nature of the Products that they may purchase or supply. Byparts may supplement the descriptions with information which are true, accurate and up to date, obtained from third parties regarding the User.
+Repairers select a set of preferred Suppliers from an extensive list provided on the Site, and may recommend additional Suppliers to be invited to participate.
+A Repairer requests Quotes for one or more Products by posting a Request on the Site which shall include information on the vehicle and Product details and shall specify a “Request Closing Time”, which is the deadline by which Suppliers shall provide Quotes.
+Suppliers may respond to a posted Request from a Repairer.
+If a Supplier responds to a Request, it shall submit a confidential Quote, which includes Product and delivery information as provided below.
+No Quotes shall be allowed to be submitted after the later of i) the Request Closing Time or ii) the moment the Repairer views the submitted Quotes.  The Repairer or Byparts may extend the Request Closing Time only if the Repairer has not begun to view the submitted Quotes.
+Repairer shall select a single Quote or reject all of the Quotes, for each Product. If the Repairer requires additional Quotes after the Request Closing Time, it may resend the Request and may include additional Suppliers in the new Request with a new Request Closing Time. The Repairer may withdraw the Request and not purchase the Product requested through the quoting procedures on the Site. Byparts will facilitate the Repairer providing a notice to all suppliers who provided Quotes on that request which shall state the reasons for the withdrawal.
+Repairers and Suppliers may communicate via the Site or via other means, such as facsimile, email or telephone. Such communications may include any permissible communications under this Agreement regarding the Product, Request, Quote, or Order.
+If the Repairer selects an entire Quote or individual Products from a Quote, Byparts shall notify the other Supplier(s) that provided an entire Quote or some individual Products on a Quote that it was not accepted by the Repairer.
+After selecting a Quote, Repairer shall send an Order via the Site to the Supplier for the Products to be purchased.
+The Repairer may configure the Site to require a review by the Supplier of an Order submitted by the Repairer that does not conform with the Quote received from the Supplier. The Supplier may accept these Orders, or revise the Order for confirmation by the Repairer. The Repairer may accept, reject or further modify the revised Order from the Supplier. The Repairers and Suppliers may undertake as many rounds of revisions as they may agree.
+The Supplier confirms its acceptance of the final agreed Order and its commitment to deliver the Product on the terms agreed.
+The Products shall be delivered pursuant to the terms of the final agreed Order.
+The Repairer and Supplier shall each provide feedback on the Site as to their experience with the other in connection with a completed purchase of Products using the Site.
+A Repairer may place an Order directly with a Supplier using the Site without submitting a Request to one or more Suppliers. Such transaction shall omit the process of submission of Quotes by Suppliers.
+Repairers and Suppliers may vary terms of the Orders, Requests or Quotes as mutually agreed.
+Byparts may use feedback provided by other Users to rate or provide editorial comment on a User.
+Use of the Site – Direct Orders
+Delivery of Orders.
+Repairers may submit an Order directly to an entity or individual Supplier via the Site. Fax-Only Suppliers that are not users on the Site shall receive a facsimile Order from the Repairer as relayed by Byparts.
+
+Delivery of Products.
+The Supplier shall deliver the Products ordered to the Repairer in accordance to all terms in this Agreement which relates and applies to direct Orders.
+
+Requests
+A Repairer shall:
+Post Requests for Products that Repairer intends to purchase in good faith.
+Submit Requests with sufficient information to allow Supplier (i) to submit accurate Quotes; and (ii) to deliver Products and complete the transaction.
+Not purchase the Products other than through the Site after the Repairer has submitted a Request, until the later of (i) the Request Closing Time; or (ii) Repairers withdrawing the Request.
+Provide a reason, via the Site, for any Request withdrawn by the Repairer.
+Remove or modify any Request if Byparts determines in its sole discretion that the Request violates any provision of this Agreement.
+A Repairer may modify a Request before the Request Closing Time.
+Quotes
+Repairer’s Rights and Obligations – Quotes
+Repairer may select any Quote, any combination of Quotes, or reject all Quotes. Repairer shall select a Quote if one or more Quotes substantially conform to the Request. Repairer shall use best efforts to place Orders for at least 60% of its Requests.
+Repairer need not provide an explanation to Supplier for non-acceptance of a Supplier’s Quote.
+Repairer may, in its sole discretion, accept or not accept a Quote based upon any reasonable material criteria.
+If the Repairer rejects all Quotes responding to a particular Request, then Repairer may request additional Quotes after the Request Closing Time, or withdraw the Request before or after the Request Closing Time.
+Repairers shall not accept Quotes submitted after the Request Closing Time.
+Suppliers’ Rights – Quotes
+Supplier may (i) submit a Quote in response to a Request; and (ii) review and confirm an Order only if Supplier can provide Products on the terms and conditions specified by the Repairer in such Quote.
+
+Suppliers’ Obligations – Quotes
+Supplier shall:
+
+make best efforts to provide Quotes to those Repairers that have identified it as a preferred Supplier.
+request additional information from the Repairer if the Supplier requires such additional information to reasonably respond to a Request;
+submit Quotes to the Repairer before the Request Closing Time;
+not amend or withdraw Quotes after the Request Closing Time, unless Products have become unavailable or it otherwise becomes impossible for Supplier to fulfil an Order (in which case, Supplier shall withdraw its Quote as soon as it becomes evident that it cannot fulfil the Order);
+provide Quotes for Products that substantially conform to all terms of the Request;
+honour the payment terms selected by Repairer if multiple payment terms are offered.
+provide Quotes with the following information:
+Prices for Products in Malaysian Ringgit.
+A competitive price for the requested Products, which shall be no higher than the price that would be offered to the Repairer or an equivalent trade buyer outside of the Byparts Application, net of all discounts and rebates.
+As available to the Supplier, descriptions of all material Product defect.
+Description of any failure of the Products to be of merchantable quality or fitness for their intended purpose.
+Descriptions of required Product refurbishment, together with refurbished Product allowances and estimated repair times.
+Listing of freight costs shall be included in the Product prices and not listed separately.
+Orders
+Obligations Regarding Orders – Repairers
+Repairers:
+
+shall make best efforts to place Orders via the Site when Suppliers have provided conforming Quotes;
+shall not submit Orders for Products that such Repairer cannot purchase for financial, legal or other reason;
+shall submit an Order as soon as reasonably practical after selecting a Quote.
+may reject Confirmed Orders that do not provide for Products conforming with placed Orders in all material respects.
+Obligations Regarding Orders – Suppliers
+Supplier shall:
+
+confirm any Order received (a) during normal business hours within one (1) hour of receipt, or (b) if received outside normal business hours by 9 a.m. (Supplier time) the following business day;
+provide Products ordered that reasonably conform to the terms of the related final and agreed Quote.
+Purchase and Sale of Products
+Unless Repairer and Supplier have entered into their own terms of trade, then these default terms contained in Section 15 shall apply.
+
+Delivery.
+Supplier shall supply the Products in accordance with the final agreed Order, including compliance with delivery times.
+Supplier shall hold title and bear risk of loss in Products until delivered to and signed for by Repairer, at which time title and risk of loss shall pass to the Repairer.
+Product Quality.
+Products shall be of good and merchantable quality, except to the extent a final agreed Quote specifies required refurbishing of the Products. Products shall materially conform to the specifications set forth in the final agreed Quote.
+
+Payment.
+Repairer shall pay for Products by the due date specified in the Order or invoice, except to the extent of disputes raised promptly by Repairer with the Supplier.
+
+Warranty.
+Supplier shall warrant all used Products supplied for the period as quoted from date of invoice and all new Products shall be covered by the manufacturers’ standard warranty.
+
+Refurbished Products
+Unless Repairer and Supplier have entered into their own terms of trade, then these default terms contained in Section 16 shall apply.
+
+The Supplier may provide for allowances or credits against the Order price for Products that need refurbishing.
+Allowance or credit terms regarding refurbished Products shall be as agreed between Repairer and Supplier.
+Repairer may return a Product if Repairer reasonably determines that the refurbishment credit or allowance does not cover Product refurbishing costs.
+Products Returns
+Unless Repairer and Supplier have entered into their own terms of trade, then these default terms contained in Section 17 shall apply.
+
+Repairer may return a Product if the quality or specifications materially deviate from the Product Quote.
+Supplier may credit the Repairer the full value of the returned Product and pay the cost of freight to return the Product.
+Repairer shall promptly advise Supplier regarding any problem with delivered Products. Repairer shall return Products warranting a credit from Supplier under this Agreement, within fourteen (14) days of delivery.
+Supplier shall accept all Products returned by Repairer and, within thirty (30) days of the return, credit Repairer the full invoiced payment. Repairer shall pay delivery costs for the return to the Supplier if (i) the non-conforming Product is the result of inaccurate Orders that are the fault of the Repairer; or (ii) the Product conforms to the Quote and the Supplier’s performance complied with the Quote in all material respects. The Supplier shall bear the cost for Product returns if Supplier delivered a Product that materially deviated from the final agreed Quote or the Supplier otherwise breached its duties under this Agreement in connection with delivery of the Product.
+Supplier shall not assess a restocking fee for returns of products that are (i) defective or of poor quality; (ii) delivered late; or (iii) not the Products specified in the final agreed Quote in all material respects. Supplier may not assess a restocking fee for Repairer returns of electronic sensor components and related safety systems that are (1) new; and (2) do not materially conform to the Quote; or (3) are delivered late. Supplier may assess a restocking fee for returns of electronic sensor components and related safety systems that are (1) used, and (2) materially conform to the Quote, including timely delivery.
+User Technical Specifications and Obligations
+User shall only use hardware and software that satisfy standards provided in the Site and that (i) permit complete performance of all Site functions and displays; (ii) operate the Byparts Software; (iii) transmit Requests, Quotes and Orders; and (iv) permit the performance by all parties of obligations under this Agreement.
+User shall not:
+access unauthorized or restricted portions of the Byparts Application, or Byparts’s proprietary or confidential information and data;
+damage or harm the Site.
+upload, mail, e-mail, or otherwise transmit (i) any unsolicited or unauthorized advertising or promotional material, (ii) information from the Site or Byparts other than as required to deliver a Request, Quote, or Order, (iii) illegal or illicit code, including viruses, Trojan Horses, anomalies, self-destruction mechanisms, copy protection schemes, or any other computer instructions that interfere with the Site or Byparts Software.
+No Manipulation of the Market
+User shall not:
+collude with other Repairers or Suppliers to manipulate Product prices;
+discuss or share information gathered through the Byparts Application with other Users or third parties other than the insurance carrier listed on the Request;
+disclose a particular Quote or Request, or the existence of the Quote or Request, to any third party, including any other Repairer or Supplier (other than the party supplying the Quote);
+manipulate the Site or the Byparts Application that would conceal information from other Users or interfere with an open exchange of information and delivery of Products based on the fairest set of price and terms; or
+post Requests, Quotes and submit Orders that are in any manner (i) inaccurate or incomplete, or(ii) defamatory, offensive, or in violation of any rule or law.
+Repairer shall not:
+notify a Supplier in advance of other Suppliers receiving a Request;
+share information not publicly available in the Request with a Supplier that is not available to other Suppliers that receive the request;
+provide incomplete, inaccurate or misleading information in a Request;
+share quoted pricing of a Supplier with its competitors; or
+disclose confidential login credentials to a Supplier or any other party.
+Good Faith Promotion of Arms-Length Transactions
+User shall:
+notify Byparts of any unethical, unprofessional, or illegal conduct it encounters from other Users.
+act in good faith and fair dealing in using the Site and performing User’s obligations, including (A) Requests, Quotes, and Orders, (B) approvals and rejections of Quotes by a Repairer, (C) the purchase and sale of Products, (D) any feedback provided to Byparts, and (E) dealing with all other Users and Byparts.
+User shall not:
+discourage any Supplier from submitting a Quote in response to a Request;
+establish an unfair competitive disadvantage among other Users;
+circumvent the intended purpose of the Site or the Byparts Application; or
+collude with, or encourage, any party to breach this Agreement.
+Repairer shall not:
+provide any unfair advantage to any Supplier or otherwise manipulate the market, such as set an unreasonably short Request Closing Time period;
+withdraw a Request following the receipt of conforming Quotes and purchase the requested Products outside the Byparts Application without using a substantial portion of the functions of the Byparts Application; or
+request price discounts from prices provided in Quotes to obtain lower prices outside of the Byparts Application;
+User Dispute Resolution
+User shall engage in good faith negotiations to resolve any disagreement regarding the amount of discount in connection with Products requiring refurbishing.
+Users shall use their best efforts to resolve disputes regarding Requests, Quotes, Orders, Products, or the delivery of or payment for Products. Byparts may assist the parties in their resolution of disputes.
+Remedies for Breach by Participants
+Upon User’s breach of any provision of this Agreement, or Byparts’s determination based on the number of complaints or negative comments received regarding User, Byparts may, in its sole discretion:
+
+revise the terms of this Agreement as it determines in its sole discretion;
+issue a warning to User;
+require User to remedy the breach;
+advise other Users of the User’s breach;
+suspend User’s access to the Site;
+cancel or withdraw any pending Requests or Quotes of User;
+terminate User’s participation;
+take any other action against User, including seeking injunctive relief.
+System Availability
+Byparts shall use commercially reasonable efforts to (i) maintain the availability of the Site, and (ii) advise User of planned outages or disruptions, to the extent practical. Byparts may for any reason, at any time, and without notice, undertake system maintenance or modify or discontinue the Byparts Application, including the Site or the Byparts Software.
+
+Security
+User is responsible for its Site user name or password, whether used by User or any other party. User shall protect against unauthorized access to its password and its computer and shall logoff when User finished using the Site. User shall change its password upon request by Byparts. User shall contact Byparts immediately if it suspects any unauthorized use or disclosure of its password.
+
+Disclaimer of Warranties
+The Byparts Application is provided on the “as is” and “as available” basis. Use of the Byparts Application is at User’s sole risk and discretion. Byparts explicitly disclaims any warranties related to:
+lack of Site availability or interruption, delay, breach of security, errors, bugs, viruses or malware;
+the completeness or accuracy of any content provided on the Site, including Requests, Quotes, Orders, advertisements, industry information posted on the Site, directories to Suppliers, links to other web sites, information concerning Repairers or Suppliers, or content posted on the Site.
+Products, including Supplier specifications, or satisfaction of the requirements of a Repairer;
+Product performance or warranties;
+ownership, title, availability, terms of sale or delivery, or other limits or impairments of Products; or
+User’s ability to complete a transaction;
+transactions conducted with other Users;
+misconduct of any Users, including Users that have registered under false pretences or attempted to defraud other Users;
+User actions based on information from the Site or links to any other websites; or
+the performance under this Agreement by any party other than Byparts.
+All conditions, representations and warranties, whether express, implied, statutory or otherwise, including, without limitation, any implied warranties of merchantability, fitness for a particular purpose, and non-infringement, are hereby excluded and disclaimed to the fullest extent permitted under the law.
+Limitation of Liability
+Byparts shall have no liability regarding Losses related to or arising from the following:
+unauthorized access to or use of User’s login name or password;
+lack of Site availability or performance, or delay or failure to transmit, or any download or upload of data from, to or via the Site or any element of the Byparts Application, whether or not such delay or failure arises out of a defect, fault, loss of availability or malfunction of the Byparts Application;
+any modification, suspension or discontinuation of the Byparts Application, including any delay or incompleteness of information contained in any facsimile or other transmission to a Repairer or Supplier that does not use the Site or other element of the Byparts Application;
+the corruption of any of the data held on the Site or delivered by Byparts via facsimile, email or other medium;
+late payments or failure by a Repairer to pay any amounts owed to Supplier;
+ratings or commentary regarding any User;
+termination of User’s participation or access to the Byparts Application; or
+cost of any Product refurbishment.
+If Byparts breaches this Agreement, or if User becomes dissatisfied with Byparts services of Byparts Software, User’s sole and exclusive remedy shall be the termination of its participation and this Agreement. In no event shall Byparts have any liability for any indirect, incidental, special, or consequential damages, however caused and on any theory of liability, whether for breach of contract, tort (including negligence) or otherwise, arising out of this Agreement, including but not limited to loss of profits, even if Byparts has been advised of the possibility of such damages. These limitations shall apply notwithstanding any failure of essential purpose of any limited remedy.
+Indemnification
+Notwithstanding anything to the contrary, User agrees to indemnify, defend and hold harmless Byparts, its affiliates, and their respective shareholders, members, directors, manager, officers, employees, agents, subcontractors, customers, and end Users from and against any and Losses related to or arising from (A) User’s use of the Site or the Byparts Software; (B) breach of any provision of this Agreement; (C) the sharing by User of its login name, password, reminder question, reminder answer or other information from the Site with any party; (D) ratings or commentary by User regarding any other person or entity, including information used in producing ratings of Repairers or Suppliers; (E) delay or failure of any facsimile, email or other communication involving Byparts and any Repairer and Supplier; and (F) disputes between any Repairer or Supplier.
+
+Confidentiality
+The terms of this Agreement between User and Byparts are confidential.
+
+General Provisions
+This Agreement (i) shall be governed by laws of Malaysia (ii) contains the entire understanding between User and Byparts regarding the subject of this Agreement, and supersedes all previous oral or written agreements or understandings between User and Byparts regarding the subject of this Agreement; (iii) binds User’s permitted successors and assigns; (iv) shall be subject to legal proceedings exclusively in Malaysia (except that actions to enforce a judgment or for specific performance may be located elsewhere as necessary); (v) shall not be waived except in writing signed by Byparts (which waiver shall only relate to the specified right or obligation); (vi) shall require that written notices be made to Byparts at the address indicated on the Site;  (viii) shall not be deemed to establish a partnership, agency or joint venture among the parties; (ix) shall not be assignable by User (by operation of law or otherwise) without the prior written consent of Byparts (a change of control involving User shall constitute an assignment requiring consent); (x) shall not be affected by the invalidity or unenforceability of any provision, which such provision shall be deemed severable and not affect the remaining valid and enforceable provisions of this Agreement; and (xi) shall be subject to the rule of construction where the term “including” or “include,” as used in this Agreement, shall mean “including, but not limited to.” User shall pay Byparts fees of costs and collection (including attorneys’ fees), to enforce any provision of this Agreement, including any failure by User under this Agreement to pay any amounts due, take any action required, or return any property to Byparts.

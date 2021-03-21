@@ -1,0 +1,49 @@
+This privacy policy (“Policy”) applies to your use (“you”/”User”) of Byparts (Asia) Sdn Bhd (“Byparts”) websites and services. Each User agrees to this Policy by using or continuing to use any of Byparts website and mobile application (“Byparts Application”). This Policy is part of Byparts User Agreement (the “User Agreement”).
+
+What kinds of Personal Data Byparts collect from you?
+Byparts will collect from you two kinds of Personal Data being: – (i) Personal Information; and (ii) Aggregate Information. For your reference:
+
+“Personal Information” means information that specifically identifies an entity, individual, product, or transaction (such as a company, user, email address, name, contact information, or the price and terms of a transaction between a Repairer or Supplier), and demographic and other information when directly linked to information that can identify an individual or any entity.
+
+“Aggregate Information” means information Byparts collects about a group or category of services or users from which individual user identities have been removed. In other words, no Personal Data is included in Aggregate Data. Byparts may use Aggregate Data to, among others, understand trends in its users’ needs.
+
+We may also obtain your Personal Data from third parties who have been duly authorised to disclose your personal data to us.
+
+If you provide personal data of any third party to us, you represent and warrant that you have obtained the necessary consent from that third party, to share and transfer his/her personal data to us, and for us to collect, use, retain, process and disclose such data in accordance with this Policy.
+
+We will only be able to collect your Personal Data if you voluntarily submit the information to us. If you choose not to submit your Personal Data to us or subsequently withdraw your consent to our use of your Personal Information, we may not be able to provide you with our services.
+
+You must only submit personal data which is accurate and not misleading. You may access, update your personal data submitted to us or withdraw your consent at any time by contacting us.
+
+How Byparts collect your Personal Data?
+Byparts collect your Personal Data via the following ways:
+
+i) Input by the User: Byparts collects information when the User gives such information on Byparts Application at the time of the User’s access to Byparts Application and when the User registers for and uses services of Byparts.
+
+ii) Automatically Collected Information: Byparts automatically receives certain types of information when the User visits Byparts’ webpages, interacts with Byparts webpages, services and communications.
+
+iii) Cookies and Web Beacons: Byparts may also use certain kinds of technology such as cookies and web beacons to collect information.
+
+Why we collect and how we use your Personal Data?
+We collect, use and process your personal data for the following purposes:
+
+i) In general, Byparts collects, uses and processes Personal Data to provide its services to User, operate the Site, integrate with other add-on services that complement the Byparts Application.
+
+ii) Byparts may also use the User’s Personal Information, for marketing analysis, surveys, web and statistics analytics, User’s pattern of use of Byparts Application
+
+How long Byparts keeps your Personal Data?
+Byparts will retain Personal Data only for as long as (i) necessary for the respective purpose, (ii) necessary to carry out each of the purposes as stated in item 4 above, (iii) User has consented to, and/or (iv) required by applicable laws. Byparts will destroy or permanently delete the Personal Data if it is no longer required.
+
+Whom and how we share your Personal Data?
+Byparts may share aggregated company or demographic, transactions between Suppliers and Repairers, Requests, Quotes, Orders, and information about its participants, sales, and traffic to its partners, affiliates and related company(ies).
+
+Byparts may also disclose information to a third party to (a) comply with laws or respond to lawful requests and legal process; (b) to protect Byparts, agents, customers, and others including to enforce its agreements, policies and terms of use; or (c) in the good faith belief that disclosure is needed to respond to an emergency, or protect the personal safety of any person.
+
+How we protect your Personal Data?
+Byparts takes steps it deems reasonable to protect Personal Data it collects from the User to prevent loss, misuse and unauthorized access, disclosure, alteration, and destruction, including technical measures to ensure that your Personal Data is recorded and processed in complete confidentiality and security, maintain appropriate restrictions on access to your personal data, and monitoring of the access, use, and transfer of personal data
+
+What rights you have?
+Under applicable data protection laws and regulations, you have a right (a) of access to, update, rectification of, and/or erasure (where required by law) of your personal data; (b) to restrict or object to its processing; and (c) to the extent our processing of your personal data is based upon your consent, to withdraw your consent, without affecting the lawfulness of our processing based on your consent before its withdrawal.
+
+Changes to this Policy
+Byparts may change this Policy at any time. Byparts will notify all User’s whenever this Policy is modified via the email address that User has configured in Byparts.
